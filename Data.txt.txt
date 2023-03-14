@@ -1,3 +1,4 @@
 1.This line was added from Git temp folder.
 2.This line is added from Git Workspace 1 folder.
 3.This line is added from Git Workspace 2 folder.
+4.Checking in Git Workspace 1 folder. Changes done by Workspace 2 are visible and this line is added from Workspace 1.
